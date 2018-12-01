@@ -1,0 +1,1 @@
+Drum Machine App displays a virtual drum kit to the user. The user can click on any drumpad or press the matching key on the keyboard to play the corresponding sound. A small display window will show the name of the sound currently playing.
